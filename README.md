@@ -1,7 +1,5 @@
 # API docs
 
-## 2019 Dicon
-
 * POST /signup ( 회원가입 )
 
 > Params
