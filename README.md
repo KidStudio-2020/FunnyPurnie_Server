@@ -1,7 +1,5 @@
 ## 2020 STA+C DIAR 
-
 ### API DOCS
-
 * POST /signup ( 회원가입 )
 
 > Params
